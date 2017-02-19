@@ -7,7 +7,7 @@
 	"license": "BSD",
 	"authors": [
 		{
-			"name": "Winnipass Add",
+			"name": "Winnipass Adam",
 			"email": "adams4lyf@gmail.com"
 		}
 	],
@@ -17,7 +17,7 @@
 	},
 	"autoload": {
         "psr-4": {
-            "Winnipass\\": "src/"
+            "Winnipass\\SimplePhp": "src/"
         }
     }
 }

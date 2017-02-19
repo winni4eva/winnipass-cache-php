@@ -1,6 +1,6 @@
 <?php
 
-namespace Winnipass;
+namespace Winnipass\SimplePhp;
 
 /**
  * Simple Cache class
