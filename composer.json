@@ -17,7 +17,7 @@
 	},
 	"autoload": {
         "psr-4": {
-            "Winnipass\\SimplePhp": "src/"
+            "Winnipass\\SimplePhp\\": "src/"
         }
     }
 }
